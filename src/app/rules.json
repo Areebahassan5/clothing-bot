@@ -1,0 +1,57 @@
+[
+  {
+    "intent": "greeting",
+    "keywords": ["hello", "hi", "hey", "salam", "assalam o alaikum", "aoa"],
+    "reply": "Assalam-o-Alaikum! Welcome to StyleMate Boutique! 👗 I can help you with dresses, prices, sizes, bridal wear, and delivery."
+  },
+  {
+    "intent": "casual_dresses",
+    "keywords": ["casual", "lawn", "daily wear", "summer collection"],
+    "reply": "Our casual collection includes lawn suits, kurtis, and everyday outfits. Sample prices start from PKR 2,500."
+  },
+  {
+    "intent": "formal_dresses",
+    "keywords": ["formal", "party wear", "evening dress"],
+    "reply": "Our formal collection features embroidered suits and elegant party wear. Illustrative prices range from PKR 6,000 to PKR 18,000."
+  },
+  {
+    "intent": "bridal",
+    "keywords": ["bridal", "wedding dress", "bride", "wedding wear"],
+    "reply": "Our bridal collection includes traditional and modern wedding outfits. Prices depend on fabric, embroidery, and customization."
+  },
+  {
+    "intent": "prices",
+    "keywords": ["price", "prices", "cost", "how much", "rates"],
+    "reply": "Our sample prices are: Casual wear PKR 2,500–5,000; Formal wear PKR 6,000–18,000; Bridal wear has customized pricing. These prices are illustrative."
+  },
+  {
+    "intent": "sizes",
+    "keywords": ["size", "sizes", "small", "medium", "large", "measurements"],
+    "reply": "Our sample size options are Small, Medium, and Large, depending on the outfit. Please confirm availability before ordering."
+  },
+  {
+    "intent": "orders",
+    "keywords": ["order", "buy", "purchase", "booking"],
+    "reply": "To order, choose your dress, size, and preferred color, then contact the boutique. This demo chatbot cannot accept real orders."
+  },
+  {
+    "intent": "delivery",
+    "keywords": ["delivery", "shipping", "courier", "deliver"],
+    "reply": "Delivery availability and charges depend on your location. Contact the boutique to confirm shipping details."
+  },
+  {
+    "intent": "returns",
+    "keywords": ["return", "exchange", "refund", "damaged"],
+    "reply": "For returns or exchanges, please contact the boutique and confirm its return policy."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "phone", "number", "address", "location"],
+    "reply": "Please check the boutique's official contact details. This demo does not have a real phone number or store address."
+  },
+  {
+    "intent": "thanks",
+    "keywords": ["thank you", "thanks", "shukriya"],
+    "reply": "You're welcome! 💕 Thank you for visiting StyleMate Boutique."
+  }
+]
